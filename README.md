@@ -2,6 +2,12 @@
 
 A curated collection of essential tools for Active Directory enumeration, exploitation, lateral movement, and post-exploitation. This toolset aggregates PowerShell scripts, C# binaries, and Python utilities commonly used in Red Team operations and Penetration Testing.
 
+## 📂 Setup
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
 ## 📂 Tool Inventory
 
 | Tool Name | Location | Category & Description |
